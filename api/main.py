@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from fastapi.responses import RedirectResponse
-from api.endpoints import model_endpoints, image_endpoints
+
+from api.endpoints import image_endpoints, model_endpoints
 
 app = FastAPI()
 
