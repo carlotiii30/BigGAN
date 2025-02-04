@@ -172,3 +172,5 @@ cython_debug/
 
 # Imagenes y archivos
 data
+models
+outputs
